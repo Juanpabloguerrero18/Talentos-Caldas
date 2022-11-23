@@ -1,0 +1,41 @@
+.primera{
+    padding: 30px;
+    border: 30px;
+    color: cadetblue;
+}
+
+.segunda{
+    padding: 30px;
+    border: 10px;
+    background: rgb(137, 245, 245);
+    font-size: 20px;
+    margin: 10px;
+    width: 150px;
+    height: 70px;
+}
+
+.tercera{
+    padding: 30px;
+    border: 10px;
+    background: rgb(137, 245, 245);
+    font-size: 20px;    
+    margin: 10px;
+    width: 150px;
+    height: 70px;
+}
+div{
+    padding-left: 400px;
+    margin-top: -400px;
+}
+
+.btn-a{
+    padding: 10px;
+}
+
+.button-b{
+    padding: 10px;
+    margin-left: 40px;
+}
+body{
+    background-color: rgb(137, 245, 245);
+}
